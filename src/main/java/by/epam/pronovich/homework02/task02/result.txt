@@ -1,0 +1,11 @@
+true
+false
+true
+Do something
+5
+Dasha <--- Ввод с клавиатуры.
+Person name: Dasha
+Person{name='Vovan', age=26}
+Person{name='TestCustomInterface', age=50}
+Default method
+Static method

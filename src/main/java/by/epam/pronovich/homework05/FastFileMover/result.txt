@@ -1,0 +1,3 @@
+Copy file with BufferedInputStream, FileName - 161mb.mp4 165MB 481 NANOSECONDS
+Copy file with FileChanelCopy, FileName - 161mb.mp4 165MB 117 NANOSECONDS
+Copy file with NIO2, FileName - 161mb.mp4 165MB 97 NANOSECONDS

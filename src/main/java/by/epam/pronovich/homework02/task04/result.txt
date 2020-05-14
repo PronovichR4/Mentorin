@@ -1,0 +1,46 @@
+Cap doughter
+Dubrovsiy
+Poltava
+TWO_AUTORS
+Voina i mir
+Anna Corenina
+Book{title='Voina i mir', numberOfPages=600}
+Book{title='Shinel', numberOfPages=50}
+Cap doughter
+Dubrovsiy
+Poltava
+Voina i mir
+Anna Corenina
+Idiot
+Shinel
+
+Book{title='Shinel', numberOfPages=50}
+Book{title='Idiot', numberOfPages=170}
+Book{title='Anna Corenina', numberOfPages=250}
+Book{title='Dubrovsiy', numberOfPages=255}
+Book{title='Poltava', numberOfPages=300}
+Book{title='Cap doughter', numberOfPages=356}
+Book{title='TWO_AUTORS', numberOfPages=500}
+Book{title='Voina i mir', numberOfPages=600}
+
+Book{title='Anna Corenina', numberOfPages=250}
+Book{title='Cap doughter', numberOfPages=356}
+Book{title='Dubrovsiy', numberOfPages=255}
+Book{title='Idiot', numberOfPages=170}
+Book{title='Poltava', numberOfPages=300}
+Book{title='Shinel', numberOfPages=50}
+Book{title='TWO_AUTORS', numberOfPages=500}
+Book{title='Voina i mir', numberOfPages=600}
+Cap doughter
+Dubrovsiy
+Poltava
+TWO_AUTORS
+Voina i mir
+Anna Corenina
+Idiot
+Shinel
+Author{name='Pushkin', age=20}
+Author{name='Gogol', age=35}
+Author{name='Tolstoy', age=25}
+Author{name='Dostoevskiy', age=30}
+Book{title='Voina i mir', numberOfPages=600}

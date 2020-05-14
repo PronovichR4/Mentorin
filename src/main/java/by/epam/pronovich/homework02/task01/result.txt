@@ -1,0 +1,10 @@
+Sort main.java.by name:
+Person{name='Grisha', age=19}
+Person{name='Petya', age=16}
+Person{name='Vasya', age=25}
+Person{name='Volodya', age=22}
+Sort main.java.by age:
+Person{name='Petya', age=16}
+Person{name='Grisha', age=19}
+Person{name='Volodya', age=22}
+Person{name='Vasya', age=25}
